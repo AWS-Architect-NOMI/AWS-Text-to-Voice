@@ -24,7 +24,7 @@ IAM Roles & Policies - Ensures secure access control.
 
 Amazon DynamoDB (Optional) - Stores metadata like timestamps, file locations, and access logs.
 
-Step-by-Step Implementation Using STAR Method
+Step-by-Step Implementation 
 
 1. Situation
 
